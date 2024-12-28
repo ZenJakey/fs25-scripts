@@ -1,0 +1,10 @@
+    <File fileId="9999" filename="data/infoLayer_fruitDensity.png"/>
+
+
+		<InfoLayer name="FoliageCreator" fileId="9999" numChannels="8" runtime="true">
+            <Group name="FoliageCreator" firstChannel="0" numChannels="8" >
+              <Option value="1" name="Grass"/>
+              <Option value="2" name="GrassDeko"/>
+              <Option value="3" name="Forest"/>
+            </Group>
+          </InfoLayer>
