@@ -1,0 +1,13 @@
+  <File fileId="9999" filename="data/infoLayer_treegen.png"/>
+
+
+
+        <InfoLayer name="treeGen" fileId="9999" numChannels="8" runtime="true">
+          <Group name="Type" firstChannel="0" numChannels="8" >
+            <Option value="0" name="None"/>
+            <Option value="1" name="DenseForest"/>
+            <Option value="2" name="Forest"/>
+            <Option value="3" name="LowDensity"/>
+            <Option value="255" name="DEFAULT"/>
+          </Group>
+        </InfoLayer>
